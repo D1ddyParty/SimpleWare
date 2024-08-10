@@ -53,8 +53,8 @@ function checklagback()
 end
 
 GuiLibrary["MainGui"].ScaledGui.ClickGui.Version.Text = "Simple Private | v1.0.0"
-GuiLibrary["MainGui"].ScaledGui.ClickGui.MainWindow.TextLabel.Text = "Simple Private | v1.0.0"
-GuiLibrary["MainGui"].ScaledGui.ClickGui.Version.Version.Text = "Simple Private | v1.0.0"
+GuiLibrary["MainGui"].ScaledGui.ClickGui.MainWindow.TextLabel.Text = "Shady ware | v1.0.0"
+GuiLibrary["MainGui"].ScaledGui.ClickGui.Version.Version.Text = "Shady ware | v1.0.0"
 GuiLibrary["MainGui"].ScaledGui.ClickGui.Version.Position = UDim2.new(1, -175 - 20, 1, -25)
 infonotify("Windows custom", "Loaded successfully!", 5)
 
